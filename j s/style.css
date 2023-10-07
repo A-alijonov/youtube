@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 250px;
+    height: 40px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+}
+.video{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+    width: 90%;
+    height: 80vh;
+}
